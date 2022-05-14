@@ -1,0 +1,15 @@
+/Users/oleglegezo/Desktop/HW1/examples/ex01/bin/Debug/net6.0/ex01
+/Users/oleglegezo/Desktop/HW1/examples/ex01/bin/Debug/net6.0/ex01.deps.json
+/Users/oleglegezo/Desktop/HW1/examples/ex01/bin/Debug/net6.0/ex01.runtimeconfig.json
+/Users/oleglegezo/Desktop/HW1/examples/ex01/bin/Debug/net6.0/ex01.dll
+/Users/oleglegezo/Desktop/HW1/examples/ex01/bin/Debug/net6.0/ex01.pdb
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.csproj.AssemblyReference.cache
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.AssemblyInfoInputs.cache
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.AssemblyInfo.cs
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.csproj.CoreCompileInputs.cache
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.dll
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/refint/ex01.dll
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.pdb
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ex01.genruntimeconfig.cache
+/Users/oleglegezo/Desktop/HW1/examples/ex01/obj/Debug/net6.0/ref/ex01.dll
