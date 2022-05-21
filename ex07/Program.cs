@@ -6,7 +6,8 @@
 
 Console.WriteLine("введите целое положительное число:");
 string text = Console.ReadLine();
-int y = text[text.Length - 1] - '0';
+//int y = text[text.Length - 1] - '0'; - моё изначальное решение
+char y = text[text.Length - 1]; //решение после проверки
  
 Console.WriteLine(y+ " - последняя цифра числа");
 
