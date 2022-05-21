@@ -12,29 +12,29 @@ int b = int.Parse(Console.ReadLine());
 int max;
 int min;
 
-if (a==b)
+if (a == b)
 {
-bool res1 = a == b;
-Console.WriteLine(res1 ? "числа равны" : "");
+    bool res1 = a == b;
+    Console.WriteLine(res1 ? "числа равны" : "");
 }
 
 else
 {
-if (a>b) 
-{
-    max=a;
-    min=b;
-}
-else
-{
-    max=b;
-    min=a;
-}    
+    if (a > b)
+    {
+        max = a;
+        min = b;
+    }
+    else
+    {
+        max = b;
+        min = a;
+    }
 
-Console.Write("большее число = ");
-Console.WriteLine(max);
-Console.Write("меньшее число = ");
-Console.WriteLine(min);
+    Console.Write("большее число = ");
+    Console.WriteLine(max);
+    Console.Write("меньшее число = ");
+    Console.WriteLine(min);
 }
 
 
