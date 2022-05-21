@@ -6,7 +6,7 @@
 Console.Write("введите целое положительное число:");
 int a = int.Parse(Console.ReadLine());
 
-
+//if else лишний
 if (a % 2 == 0) 
 {
 
@@ -15,10 +15,11 @@ else
 {
     a=a-1;
 }    
-
+//if else лишний
 
 for(int i = 2; i <= a; i=i+2)
 {
-Console.WriteLine(i + " ");
+// Console.WriteLine(i + " "); - зачем выводить столбцы, если я добавил пробел
+Console.Write(i + " ");
 }
 
